@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+
+
+    position: relative;
+    background: radial-gradient(ellipse at bottom, rgb(106, 180, 95) 0%, hsl(0, 0%, 15%) 100%);
+    background-attachment: fixed;
+    
+    color:aliceblue
+}
+
